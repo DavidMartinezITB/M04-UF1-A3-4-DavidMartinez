@@ -1,0 +1,23 @@
+body {
+    background-color: aqua;
+}
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.center {
+    text-align: center;
+}
+
+.bg-silver {
+    background: #c0c0c0;
+}
+
+.f {
+    color: blue;    
+}
+
+.right {
+    text-align: right;
+}
